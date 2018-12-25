@@ -1,0 +1,14 @@
+{
+  "name": "speakerapp",
+  "version": "0.0.1",
+  "description": "acould azure course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qaizaar khas",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.10"
+  }
+}
