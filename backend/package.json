@@ -9,6 +9,6 @@
   "author": "qaizaar khas",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^3.1.10"
+    "mongodb": "^3.1.13"
   }
 }
